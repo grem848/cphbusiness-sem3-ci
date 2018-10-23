@@ -17,7 +17,6 @@ public class MyFunctionality {
    */
   public static int giveMeTen() {
     return 10;
-    
   }
 
 }
